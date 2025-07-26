@@ -109,3 +109,11 @@ Cyber Security Enthusiast
 📝 License
 
 This project is licensed under the MIT License.
+
+---
+
+## Download Packet Tracer File
+
+You can download the complete simulation and open it in Cisco Packet Tracer:
+
+[configuration.pkt](./configuration.pkt)
