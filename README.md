@@ -21,7 +21,7 @@ Router-to-Router-Connection-Guide/ ├── README.md ├── configs/ │   
 
 ## 📡 Network Topology
 
-[Router0] <--- crossover cable ---> [Router1] G0/0: 10.0.0.1/8                  G0/0: 10.0.0.2/8
+[Router0] <--- crossover cable ---> [Router1] GigabitEthernet 0/0: 10.0.0.1/8                  GigabitEthernet 0/0: 10.0.0.2/8
 
 ---
 
